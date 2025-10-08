@@ -1,6 +1,4 @@
-# Titulo1
-## TITULO2
-### TITULO 3
+
 # Bienvenido a mi pagina
 
   
